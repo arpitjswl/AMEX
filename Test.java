@@ -8,5 +8,6 @@ public class Test {
     public static void main(String args[]){
         SpringApplication.run(Test.class);
         System.out.println("app running");
+ System.out.println("app running 2 18 June 2025");
     }
 }
