@@ -1,4 +1,1 @@
-class PaymentBuilder{
-Commit1
-
-}
+class PaymentBuilder{}
